@@ -1,4 +1,4 @@
-**Term/Year:** Fall 2021
+**Term/Year:** Fall 2023
 
 **Subject Code and Course Number**: CS 130 - Computer Organization B
 
