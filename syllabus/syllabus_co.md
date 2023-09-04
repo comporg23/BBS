@@ -46,7 +46,7 @@
 
 
 | Day  | Topic  |
-|---|---|---|
+|---|---|
 | 0  | Brief history of computing. |
 | 1  | Braille and Binary codes |
 | 2  | Telegraphs and Relays |
