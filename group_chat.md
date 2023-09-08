@@ -30,3 +30,12 @@ Here's a video instruction/demo for joining the group chat from iOS using Siskin
 1. Tap the "join group chat" button in your app
 2. Use `conference.jabber.am` as a component domain
 3. Search for `comporg23`
+
+## Other chats
+
+There is a general purpose but sort of tech oriented local chat:
+
+room: `sarian`
+conference server: `conference.jabber.am`
+
+and the incomplete list of xmpp rooms exists [here](https://search.jabber.network/rooms/1)
