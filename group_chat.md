@@ -26,6 +26,13 @@ On Android, get [F-Droid](https://f-droid.org/en/) first, the alternative applic
 
 Here's a video instruction/demo for joining the group chat from iOS using Siskin: https://www.youtube.com/watch?v=dWxOUIHDLvA
 
+## For computer
+
+There is a Windows build of [Dino](https://github.com/LAGonauta/dino).
+Also [Gajim](https://gajim.org/) seems to be ok.
+
+For MacOS [Beagle](https://beagle.im/) works fine.
+
 ## Joining the group chat
 1. Tap the "join group chat" button in your app
 2. Use `conference.jabber.am` as a component domain
