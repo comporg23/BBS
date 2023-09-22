@@ -60,6 +60,13 @@ Parameter 1    <--- 8(%ebp)
 Return Address <--- 4(%ebp)
 Old %ebp       <--- (%esp) and (%ebp)
 
+-8(%ebp) : second local
+-4(%ebp) : first local
+(%ebp)     : saved ebp
+4(%ebp) : return address
+8(%ebp) : pushed parameter
+
+
 As you can see, each parameter can be accessed using base pointer addressing mode using the %ebp register.
 
 Local variables.
