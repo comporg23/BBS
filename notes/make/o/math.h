@@ -1,4 +1,4 @@
-/* voc 2.1.0 [2020/10/25] for gcc LP64 on gentoo xtpa */
+/* voc 2.1.0 [2023/04/26] for gcc LP64 on gentoo xtpa */
 
 #ifndef math__h
 #define math__h
@@ -8,7 +8,7 @@
 
 
 
-import INT16 math_add (INT16 a, INT16 b);
+import UINT32 math_add (UINT32 a, UINT32 b);
 import void *math__init(void);
 
 

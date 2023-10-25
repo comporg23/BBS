@@ -1,4 +1,4 @@
-/* voc 2.1.0 [2020/10/25] for gcc LP64 on gentoo xtpa */
+/* voc 2.1.0 [2023/04/26] for gcc LP64 on gentoo xtpa */
 
 #define SHORTINT INT8
 #define INTEGER  INT16
@@ -10,12 +10,12 @@
 
 
 
-export INT16 math_add (INT16 a, INT16 b);
+export UINT32 math_add (UINT32 a, UINT32 b);
 
 
-INT16 math_add (INT16 a, INT16 b)
+UINT32 math_add (UINT32 a, UINT32 b)
 {
-	return a + b;
+	return a | b;
 }
 
 

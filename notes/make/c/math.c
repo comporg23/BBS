@@ -1,9 +1,9 @@
- 
 
-int add(float  a, float b)
+
+char * add(float  a, float b)
 {
-     
-  return a + b;
+   char * i[];
+  return i;
 
 
 }
